@@ -1,6 +1,6 @@
 ## About
 
-The Investment Management System is a web application designed for managing user accounts and investments. It allows users to create and manage accounts, make investments, withdraw funds, and track transactions. The application supports daily interest calculations for investments and ensures users can only invest or withdraw amounts they have available.
+The Investment Management System is a web application designed for managing user accounts and investments. It allows users to create and manage accounts, make investments, withdraw funds, and track transactions. The application supports daily interest calculations for investments. Also you can buy/sell crypto currencies with funds from your accounts.
 
 ## Features
 
