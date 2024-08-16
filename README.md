@@ -4,16 +4,17 @@ The Investment Management System is a web application designed for managing user
 
 ## Features
 
-- **Account Management**: Create and update accounts.
+- **Account Management**: Create and update accounts with different currencies(EUR,USD,CNY...).
 - **Fund Transfer**: Transfer funds between accounts.
 - **Investment Management**: Invest money into accounts with automatic daily interest accrual.
 - **Transaction History**: View detailed transaction history for each account.
+- **Crypto**: Buy/Sell crypto and check
 
 ## Requirements
 
 - **PHP**: 7.4 or higher
 - **Laravel**: 8.x or higher
-- **Database**: SQLite, MySQL, or other supported databases
+- **Database**: SQLite
 - **API Keys**:
     - CoinMarketCap API Key
     - ExchangeRate API Key
