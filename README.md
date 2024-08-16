@@ -26,3 +26,16 @@ The Investment Management System is a web application designed for managing user
 ```bash
 git clone https://github.com/Janis203/bank.git
 cd bank
+composer install
+Create an .env file
+Update the .env file with your database configuration and API keys:{
+DB_CONNECTION=sqlite
+DB_DATABASE=/path/to/your/database.sqlite
+
+COINMARKETCAP_API_KEY=your_coinmarketcap_api_key
+EXCHANGERATE_API_KEY=your_exchangerate_api_key
+}
+php artisan migrate
+php artisan serve
+Your application will be available at http://localhost:8000.
+
