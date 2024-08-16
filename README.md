@@ -23,5 +23,5 @@ The Investment Management System is a web application designed for managing user
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Janis203/bank.git
+cd bank
